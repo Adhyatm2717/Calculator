@@ -42,6 +42,7 @@ This project is built using **JavaScript DOM Manipulation**, including:
 
 ## 📂 Suggested Project Structure
 
+```
 am-digits/
 ├── assets/
 │   └── img/          # Favicon and logo images
@@ -49,6 +50,7 @@ am-digits/
 ├── style.css
 ├── style.js          
 └── README.md
+```
 
 ---
 
