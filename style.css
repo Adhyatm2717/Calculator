@@ -16,7 +16,7 @@
 .calculator{
     background-color: #3a4452;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
 
 
 }
@@ -34,10 +34,24 @@
     margin: 10px;
 }
 
+.calculator form input:active{
+    background-color: hsl(215, 17%, 22%);
+    box-shadow: inset 4px 4px 10px rgba(0, 0, 0, 0.4);
+
+}
+.calculator form input:hover{
+    background-color: hsl(215, 17%, 35%);
+}
+
+
 .calculator form .display{
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
+    background-color: hsl(215, 17%, 35%);
+    border-radius: 10px;
+    margin: 10px;
+
 }
 .calculator form .display input{
     text-align: right;
