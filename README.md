@@ -42,13 +42,13 @@ This project is built using **JavaScript DOM Manipulation**, including:
 
 ## 📂 Suggested Project Structure
 
-```
 am-digits/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-```
+├── assets/
+│   └── img/          # Favicon and logo images
+├── index.html        
+├── style.css
+├── style.js          
+└── README.md
 
 ---
 
